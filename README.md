@@ -6,6 +6,10 @@ Based on the following docs:
 
 https://doc.photonengine.com/en-us/pun/v2/demos-and-tutorials/pun-basics-tutorial/intro
 
+# Versions
+1. Photon PUN 2 v2.8.1 (21. March 2019)
+2. Unity 2018.3.9f1
+
 **Instructions**
 
 Open 2 Google Chrome Tabs with this same link to test the multiplayer connection between two players. In one tab create a room, in the second, join the room created by the first player selecting the room from the list.
