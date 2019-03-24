@@ -29,6 +29,9 @@ Open 2 Google Chrome Tabs with this same link to test the multiplayer connection
 To Play the Demo, click on the following link:
 https://rubencg195.github.io/pages/multiplayer/
 
+# Video
+https://youtu.be/7uf-Xpg-_2E
+
 # Captures
 
 **1. Player #1 Create a Room**
